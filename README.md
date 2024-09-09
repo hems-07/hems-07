@@ -40,9 +40,12 @@
 - Anything related to **Machine Learning**, **Data Structures and Algorithms**, or **Web Development**.
 - My experience with developing **signature forgery detection systems** and **smart agro advisory systems**.
 
-📫 How to reach me:
-- Email: [hemanthpalani001@gmail.com](mailto:hemanthpalani001@gmail.com)
-- LinkedIn: [linkedin.com/in/hemanth3](https://www.linkedin.com/in/hemanth3)
+## 🌐 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanth3)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemanthpalani001@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hems-07)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Hemanth0023)
 
 😄 Pronouns: He/Him
 
