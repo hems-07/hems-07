@@ -11,7 +11,6 @@
 🌱 I’m currently learning:
 - **Advanced Machine Learning** techniques
 - Deepening my knowledge in **React.js** and **Node.js**
-- Experimenting with **TensorFlow** for model deployment.
 
 👯 I’m looking to collaborate on:
 - Open-source projects involving **Machine Learning** or **Web Development**.
@@ -27,7 +26,6 @@
 📫 How to reach me:
 - Email: [hemanthpalani001@gmail.com](mailto:hemanthpalani001@gmail.com)
 - LinkedIn: [linkedin.com/in/hemanth3](https://www.linkedin.com/in/hemanth3)
-- GitHub: [github.com/hems-07](https://www.github.com/hems-07)
 
 😄 Pronouns: He/Him
 
