@@ -29,5 +29,4 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact:
-- I’m a huge cricket enthusiast and love playing badminton in my free time!
+⚡ Fun fact: I’m a huge cricket enthusiast and love playing badminton in my free time!
